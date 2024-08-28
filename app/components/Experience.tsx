@@ -10,12 +10,12 @@ const Experience = () => {
                 <div className='w-[85%] mt-10 mx-auto border md:p-2 border-opacity-70 rounded-md border-slate-500'>
                     <div className='flex items-center justify-between'>
                         <li className='font-bold text-lg m-3'>  CODING NINJA-  S_Developer Intern  </li>
-                        <div className='px-2 text-slate-400'>  aug 22-feb 23</div>
+                        <div className='px-2 text-slate-400'>  Aug 22-Feb 23</div>
                     </div>
 
                     <div className='flex items-center justify-between'>
                         <li className='font-bold text-lg m-3'>  GSSOC- Softwer Developer Intern  </li>
-                        <div className='px-2 text-slate-400'>  may 23- aug 23</div>
+                        <div className='px-2 text-slate-400'>   May 23-Aug 23</div>
                     </div>
                    
                 </div>

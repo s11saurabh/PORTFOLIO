@@ -12,7 +12,7 @@ const Work = () => {
 
         <Project
           projectName='E-LEARNING PLATFORM'
-          projectImgLink='/Sn.png'
+          projectImgLink='/nnn.png'
           Description='Comprehensive Educational Platform aimed at providing a seamless experience for students and educators alike. It offers a range of features that facilitate learning, collaboration, and resource sharing.'
           key={2}
           projectLink='https://e-learning-platform-nu-taupe.vercel.app/'
@@ -70,7 +70,7 @@ const Work = () => {
           projectImgLink='/com.webp'
           Description='  E-commerce website that  provides a seamless online shopping experience with advanced search, secure payments, and user account management.🙌'
           key={2}
-          projectLink='https://github.com/s11saurabh/Cart-Craze-Clickquisition'
+          projectLink='https://ecom-kosr.onrender.com/'
           tech={[
             { link: "react.png", name: "REACT" },
             { link: "node-js.png", name: "NODE JS" },

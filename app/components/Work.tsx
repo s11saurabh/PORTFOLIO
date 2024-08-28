@@ -50,7 +50,7 @@ const Work = () => {
           projectImgLink='hsk.png'
           Description='This is a free music streaming web application built with Next.js and powered by the savan API. The app allows users to search and stream music from a vast collection of songs available on the Saavn platform. 🙌'
           key={1}
-          projectLink='https://saurabh-n9gjg48hy-saurabhs-projects-d236dc8e.vercel.app/'
+          projectLink='https://saurabh-git-main-saurabhs-projects-d236dc8e.vercel.app/'
           tech={[
 
             { link: "mui.png", name: "Material Ui" },

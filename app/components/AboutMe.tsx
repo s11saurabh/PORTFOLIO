@@ -42,7 +42,7 @@ const AboutMe = () => {
                                 </div>
                                 <div className='mx-auto text-center flex justify-center align-centre'>
                                     <a href="mycv.pdf" target='_blank' rel='noopener noreferrer' download>
-                                        <img className='h-[600px] w-[500px]' src=" cv'-1.png  " alt="Latest CV" />
+                                        <img className='h-[600px] w-[500px]' src="/saurabh.png" alt="Latest CV" />
                                     </a>
                                 </div>
                             </div>

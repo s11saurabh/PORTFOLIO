@@ -41,8 +41,8 @@ const AboutMe = () => {
                                     <img src='/download.png' width={22} className='cursor-pointer' alt="Download icon" />
                                 </div>
                                 <div className='mx-auto text-center flex justify-center align-centre'>
-                                    <a href="mycv.pdf" target='_blank' rel='noopener noreferrer' download>
-                                        <img className='h-[600px] w-[500px]' src="/saurabh.png" alt="Latest CV" />
+                                    <a href="REM.pdf" target='_blank' rel='noopener noreferrer' download>
+                                        <img className='h-[600px] w-[500px]' src="/REM.png" alt="Latest CV" />
                                     </a>
                                 </div>
                             </div>
